@@ -6,3 +6,5 @@
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
 *DESCRIPTION*:User Management System is a simple and interactive web-based application built using Python and Streamlit. It allows users to manage personal information such as name, age, gender, and occupation through a clean and intuitive user interface. The system supports core functionalities like adding, updating, searching, deleting, and viewing all user entries. Data is managed in-memory, making it ideal for educational purposes, rapid prototyping, or demonstration of CRUD operations in Python. With Streamlit as the frontend, the application requires no HTML or CSS knowledge and runs directly in the browser for easy access and usability.
+*OUTPUT*:
+<img width="1887" height="507" alt="Image" src="https://github.com/user-attachments/assets/829f92fa-eb6d-437c-8984-bf38b42bad47" />
